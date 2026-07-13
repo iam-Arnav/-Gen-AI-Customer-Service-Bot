@@ -1,0 +1,7 @@
+OpenAI developed ChatGPT.
+
+Python is one of the most popular programming languages.
+
+Watchdog monitors file system events.
+
+FAISS is a vector similarity search library developed by Meta AI.

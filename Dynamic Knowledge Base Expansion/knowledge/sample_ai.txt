@@ -1,0 +1,17 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+
+Machine Learning is a subset of AI that allows computers to learn from data.
+
+Deep Learning is a subset of Machine Learning that uses neural networks.
+
+Natural Language Processing (NLP) enables computers to understand and generate human language.
+
+Computer Vision allows machines to interpret images and videos.
+
+Retrieval-Augmented Generation (RAG) combines a language model with a vector database to answer questions from external documents.
+
+FAISS is a vector similarity search library used to store and retrieve embeddings efficiently.
+
+Sentence Transformers convert text into numerical embeddings for semantic search.
+
+Gemini is Google's family of large language models used for text generation and question answering.
