@@ -120,7 +120,7 @@ Extended the chatbot to support multilingual conversations while preserving cont
 ### Clone the repository
 
 ```bash
-git clone https://github.com/iam-Arnav/AI-Internship-Projects.git
+git clone https://github.com/iam-Arnav/-Gen-AI-Customer-Service-Bot.git
 ```
 
 ### Navigate to any project
